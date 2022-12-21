@@ -1,6 +1,6 @@
 module github.com/submariner-io/admiral
 
-go 1.18
+go 1.19
 
 retract v0.10.0 // Tag was moved
 
